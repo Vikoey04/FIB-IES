@@ -22,3 +22,5 @@ Disseny de software en UML:
 -  [(Link)](https://drive.google.com/file/d/1PjPjbJcwm0wOH05KAe6droed1R0Cngol/view?usp=sharing) Teoria - traducció especificació a disseny diag. seqüència i arquitectura sw
 -  [(Link)](https://drive.google.com/file/d/1XoGzb3lJhtBe_s6Hi12HcAkBfy52j2ah/view?usp=sharing) Teoria - arquitectura sw + patrons de disseny + exercici restaurants
 -  [(Link)](https://drive.google.com/file/d/1wlh5IxGcqROl6YEXpx6nrSdjBf7-gY6e/view?usp=sharing) Problema - exercicis de polimorfisme
+
+[(Link)](https://drive.google.com/file/d/1oRA6Y2jBjA0dRNq8jyRMzXFCBSAdv0ib/view) Solució problema rinoplàsties
