@@ -24,3 +24,7 @@ Disseny de software en UML:
 -  [(Link)](https://drive.google.com/file/d/1wlh5IxGcqROl6YEXpx6nrSdjBf7-gY6e/view?usp=sharing) Problema - exercicis de polimorfisme
 
 [(Link)](https://drive.google.com/file/d/1oRA6Y2jBjA0dRNq8jyRMzXFCBSAdv0ib/view) Solució problema rinoplàsties
+
+## Informació addicional
+
+- [Video solucio problema Remeis](https://drive.google.com/file/d/1oBnM7BJZ1c8d04gcLOje1jihhU4k6yOp/view?ts=6294f8d4)
